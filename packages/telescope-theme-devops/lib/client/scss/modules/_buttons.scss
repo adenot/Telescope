@@ -1,0 +1,13 @@
+.btn-primary {
+  padding: 10px 20px;
+
+  -webkit-transition: background-color 500ms linear;
+  -moz-transition: background-color 500ms linear;
+  -o-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.btn-primary:hover {
+  background-color: lighten($accent, 10%);
+  color: $secondary;
+}

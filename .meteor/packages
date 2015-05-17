@@ -75,10 +75,7 @@ telescope-module-share
 telescope-api
 telescope-rss
 telescope-search
-telescope-tags
-telescope-theme-hubble
 telescope-email
-telescope-embedly
 telescope-newsletter
 telescope-daily
 telescope-update-prompt
@@ -97,3 +94,5 @@ telescope-messages
 telescope-pages
 
 # Custom Packages
+telescope-theme-devops
+telescope-tags
