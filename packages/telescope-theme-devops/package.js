@@ -39,6 +39,9 @@ Package.onUse(function (api) {
 
       // screen
       'lib/client/scss/screen.scss'
+
+      // templates
+
     ],
     'client'
   );
